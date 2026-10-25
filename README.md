@@ -111,10 +111,6 @@ Everything stays on your computer: history, playback positions, thumbnails and s
 
 Use **Settings, then Feedback** inside the app, or open an issue in this repository.
 
-## About this repository
-
-This repository hosts the Veyra Player releases and website. The app reads the **Releases** page to find updates, so please don't delete published releases.
-
 ---
 
 <div dir="rtl">
@@ -216,9 +212,5 @@ This repository hosts the Veyra Player releases and website. The app reads the *
 ## الملاحظات
 
 استخدم **الإعدادات ثم الملاحظات** داخل البرنامج، أو افتح Issue في هذا الـ repository.
-
-## عن هذا الـ repository
-
-هذا الـ repository يحتوي على إصدارات Veyra Player وموقعه. البرنامج يقرأ صفحة **Releases** عشان يلقى التحديثات، فلا تحذف الإصدارات المنشورة.
 
 </div>
